@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
+  <meta http-equiv='content-language' content=''>
+
+  <title>Felix Wolff</title>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto+Slab:300,100|Roboto:100,300,400' type='text/css'>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+
+  <style>
+    header, main, footer {
+      padding-left: 350px;
+    }
+
+    html, body, main, .slider, .slides {
+      height: 100% !important;
+    }
+
+    @media only screen and (max-width : 992px) {
+      header, main, footer {
+        padding-left: 0;
+      }
+    }
+  </style>
+</head>
+
+<body>
+<header>
+  <ul id="nav-mobile" class="side-nav fixed" style="width: 350px;">
+    <li class="bold"><a href="about.html" class="waves-effect waves-teal">About</a></li>
+    <li class="bold"><a href="getting-started.html" class="waves-effect waves-teal">Getting Started</a></li>
+    <li class="bold"><a href="http://materializecss.com/mobile.html" class="waves-effect waves-teal">Mobile</a></li>
+    <li class="bold"><a href="showcase.html" class="waves-effect waves-teal">Showcase</a></li>
+  </ul>
+</header>
+<main>
+  <div class="slider">
+    <ul class="slides">
+      <li>
+        <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+        <div class="caption center-align">
+          <h3>This is our big Tagline!</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+        <div class="caption left-align">
+          <h3>Left Aligned Caption</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+        <div class="caption right-align">
+          <h3>Right Aligned Caption</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
+        <div class="caption center-align">
+          <h3>This is our big Tagline!</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div>
+      </li>
+    </ul>
+  </div>
+</main>
+<footer>
+</footer>
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $('.slider').slider({
+      indicators: false
+    })
+  });</script>
+</body>
+</html>
