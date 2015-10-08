@@ -1,0 +1,18 @@
+.side-nav {
+  ul {
+    width: 350px;
+  }
+  li:hover {
+    background-color: #42a5f5 !important;
+  }
+
+  .logo:hover {
+    background-color: transparent !important;
+  }
+}
+
+#navbar-logo {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  text-align: center;
+}
