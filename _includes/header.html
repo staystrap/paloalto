@@ -1,14 +1,14 @@
 <header>
-  <ul id="nav-mobile" class="side-nav fixed blue darken-1">
+  <ul id="nav-mobile" class="side-nav fixed {{ site.city_color }}">
     <li class="logo">
-      <a href="/" id="navbar-logo">Intern tips for Brisbane</a>
+      <a href="/" id="navbar-logo">Intern tips for {{ site.city }}</a>
     </li>
-    <li class="bold"><a href="/" class="waves-effect waves-light yellow-text">Primer</a></li>
-    <li class="bold"><a href="/" class="waves-effect waves-light yellow-text">Accomodation</a></li>
-    <li class="bold"><a href="/" class="waves-effect waves-light yellow-text">Getting around</a></li>
-    <li class="bold"><a href="/" class="waves-effect waves-light yellow-text">Places</a></li>
-    <li class="bold"><a href="/" class="waves-effect waves-light yellow-text">Student activities</a></li>
-    <li class="bold"><a href="/" class="waves-effect waves-light yellow-text">Sport</a></li>
+
+    {% for page in site.pages %}
+      {% if page.layout == 'article' %}
+        <li class="bold"><a href="{{ page.url }}" class="waves-effect waves-light {{ site.city_color2}}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
     </li>
   </ul>
 </header>
