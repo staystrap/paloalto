@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Adam";
+  src: url(/fonts/ADAM.CG.otf) format("truetype");
+}
+
 header, main, footer {
   padding-left: $sidebar-width;
 }
@@ -11,3 +16,4 @@ html, body, main, .slider, .slides {
     padding-left: 0;
   }
 }
+

@@ -1,5 +1,5 @@
 city: Brisbane
 
-city_color: blue darken-1
+# color names taken from http://materializecss.com/color.html
+city_color:  blue darken-1
 city_color2: yellow-text
-

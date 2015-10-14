@@ -1,7 +1,7 @@
 ---
 layout: article
 
-title: People
+title: Contributors
 image: city.jpg
 ---
 

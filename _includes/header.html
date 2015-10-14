@@ -1,7 +1,10 @@
 <header>
-  <ul id="nav-mobile" class="side-nav fixed {{ site.city_color }}">
+  <ul class="side-nav fixed {{ site.city_color }}">
     <li class="logo">
-      <a href="/" id="navbar-logo">Intern tips for {{ site.city }}</a>
+      <a href="/" class="logo-container">
+        <img src="/img/travelto_logo_white.png">
+      </a>
+      <h4>{{ site.city }}</h4>
     </li>
 
     {% for page in site.pages %}
@@ -11,4 +14,25 @@
     {% endfor %}
     </li>
   </ul>
+
+  <ul id="slide-out" class="side-nav {{ site.city_color }}">
+    <li class="logo">
+      <a href="/" class="logo-container">
+        <img src="/img/travelto_logo_white.png">
+      </a>
+      <h4>{{ site.city }}</h4>
+    </li>
+
+    {% for page in site.pages %}
+      {% if page.layout == 'article' %}
+        <li class="bold"><a href="{{ page.url }}" class="waves-effect waves-light {{ site.city_color2}}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    </li>
+  </ul>
+  <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+
+  <script type="text/javascript">
+    $(".button-collapse").sideNav();
+  </script>
 </header>
