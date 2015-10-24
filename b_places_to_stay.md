@@ -8,6 +8,7 @@ Finding a place to stay in the beginning is probably the hardest part.
 Luckily, the competition for a place is not as fierce as in some larger cities.
 You basically have three options: staying with a guest family (homestay), sharing
 a house with people (sharehouse/shareflat) or sharing a room with somebody.
+Be very aware that **rent is calculated off a weekly rate!**.
 To suit your taste, the best tactic is probably:
 
 1. Stay in a hostel for the first days

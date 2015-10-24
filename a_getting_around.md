@@ -27,6 +27,12 @@ For this reason, the CityHopper is very popular, since it operates for free,
 servicing similar areas as the CityFerry. But it also operates less often than the CityFerry.
 During peak hours, CityHoppers often reach their capacity and will not take on any more passengers.
 
+## CityCycles
+In the inner parts of Brisbane, i.e. CBD, South Bank, Westend and Kangaroo Points
+you can hire bikes for short trips at stations. After you have paid an initial
+subscription fee, the system allows you to use the bikes for free for 30 minutes (Any minute more will cost you!).
+If you happen to work and live around the areas of operation, you should definitely [check it out](http://www.citycycle.com.au/).
+
 ## Buses
 They are a fast way to get around - if they are on time.
 For Lukas..? :D
