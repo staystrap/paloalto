@@ -9,7 +9,7 @@
 
     {% for page in site.pages %}
       {% if page.layout == 'article' %}
-        <li class="bold"><a href="{{ page.url }}" class="waves-effect waves-light {{ site.city_color2}}">{{ page.title }}</a></li>
+        <li class="bold"><a href="{{ page.url | prepend:site.baseurl }}" class="waves-effect waves-light {{ site.city_color2}}">{{ page.title }}</a></li>
       {% endif %}
     {% endfor %}
     </li>
@@ -25,7 +25,7 @@
 
     {% for page in site.pages %}
       {% if page.layout == 'article' %}
-        <li class="bold"><a href="./{{ page.url }}" class="waves-effect waves-light {{ site.city_color2}}">{{ page.title }}</a></li>
+        <li class="bold"><a href="{{ page.url | prepend:site.baseurl }}" class="waves-effect waves-light {{ site.city_color2}}">{{ page.title }}</a></li>
       {% endif %}
     {% endfor %}
     </li>
