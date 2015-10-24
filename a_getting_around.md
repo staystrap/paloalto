@@ -16,15 +16,15 @@ but acceptable level is adviseable. It can be bought on any CityCat or CityFerry
 
 ## CityCat, CityFerry and CityHopper
 On Brisbane River, ferries travel up and down the river every 20 minutes.
-The CityCat is the fastest one with the biggest range, until UQ campus.
-CityFerries and CityHoppers service a similar area around the CBD.
+The CityCat is the fastest one with the biggest range, until the University Of Queensland
+St. Lucia campus. CityFerries and CityHoppers service a similar area around the CBD.
 
-All services are mostly time and are the most expensive way to get around,
-a single journey may cost up to A$5.60 with the CityCat. CityFerries operate
+All services are mostly on time, with the CityCat being the most expensive way to get around,
+a single journey may cost up to A$5.60. CityFerries operate
 at lower cost, but are still hefty with A$3 for trip from one station to the other.
 
 For this reason, the CityHopper is very popular, since it operates for free,
-servicing similar areas as the CityFerry. But it also operates fewer than the CityFerry.
+servicing similar areas as the CityFerry. But it also operates less often than the CityFerry.
 During peak hours, CityHoppers often reach their capacity and will not take on any more passengers.
 
 ## Buses
@@ -33,4 +33,5 @@ For Lukas..? :D
 
 ## Trains
 Are a good way to travel medium distances, since they operate reliable and are reasonably priced.
-A trip from Brisbane central to Gold Coast, which is about 100km, takes around two hours.
+A trip from Brisbane central to Gold Coast, which is about 100km, takes around two hours and costs
+between A$11 and A$14 (with *gocard*).
