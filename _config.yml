@@ -7,5 +7,5 @@ city: Template
 # color names taken from http://materializecss.com/color.html
 # append '-text' to color2 names and prepend accent/darken with 'text-'
 city_color:  grey lighten-5
-city_color2: teal-text text-accent-2
+city_color2: teal-text
 logo_color: black # either black or white
