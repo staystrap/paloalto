@@ -23,13 +23,15 @@ files are prefixed with a letter and an underscore. You do not have to anything 
 the file title will just appear in the sidebar.
 
 ### Give tips for a new city
-**Duplicate (not fork)** the template repository, i.e. take the current working code
-and publish it in a repository of your own. Use the *gh-pages* branch.
-Change the file `_config.yaml` to reflect the new city appropriately.
-Please also adapt the color scheme to a sensible and well-readable setting
-to haven some visible distinction to other cities.
-Contribute content as you think right, then transfer ownership of the repository to
-the **staystrap** organization. We will take you onboard then :)
+1.  **Duplicate (not fork)** the template repository, i.e. take the current working code and publish it in a repository of your own.
+2.  Use the *gh-pages* branch.
+3.  Change the file `_config.yaml` to reflect the new city appropriately.
+    Please also adapt the color scheme to a sensible and well-readable setting
+    to haven some visible distinction to other cities.
+4.  Contribute content as you think right
+5.  Edit the README.md so that it points to THIS file. This avoid outdated READMEs
+5.  Transfer ownership of the repository to the **staystrap** organization.
+6.  We will take you onboard then :)
 
 ## This is too complicated!
 This system is not the best solution for this - albeit the cheapest and fastest,
