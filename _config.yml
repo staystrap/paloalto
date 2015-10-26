@@ -7,3 +7,4 @@ city: Template
 # color names taken from http://materializecss.com/color.html
 city_color:  grey lighten-5
 city_color2: teal-text accent-2
+logo_color: black # either black or white
