@@ -4,10 +4,10 @@ image: city.jpg
 title: Cost of living
 ---
 
-Overall, nearly eveything can be considered expensive by European standards in Australia.
-Luckily, salaries are adapted, and even interns can live off their wage.
+What is needed regularly and how much is it?
+What surprised you with being very expensive or very cheap?
+Just list everything here!
 
-Have a look at what you can roughly expect to pay here:
 
 | Position | Price |
 |----------+-------|

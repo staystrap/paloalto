@@ -5,12 +5,9 @@ title: Contributors
 image: city.jpg
 ---
 
-These people have lived here and would like to offer you their personel help
-in getting ashore at your new destination! Without them, these pages
-would not be what they are now!
+You are the first contributor, you have the honour of listing yourself here :)
 
 
 | Name             | Duration           | Reason             | Contact                     |
 | ---------------- | ------------------ | ------------------ | --------------------------- |
-| Felix Wolff      | 08/2015 - 03/2016  | Internship at SAP  | [Homepage](http://flxw.de/) |
-| Lukas Faber      | 08/2015 - 03/2016  | Internship at SAP  | |
+| Your name        | 08/2015 - 03/2016  | why were you here? | [Homepage](http://staystrap.github.io/) |
