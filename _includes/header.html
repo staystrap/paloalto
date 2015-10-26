@@ -4,7 +4,7 @@
       <a href="/" class="logo-container">
         <img src="http://staystrap.github.io/img/logo_{{ site.logo_color }}.png">
       </a>
-      <a href="{{ site.baseurl }}"><h4>{{ site.city }}</h4></a>
+      <a href="{{ site.baseurl }}" class="{{ site.logo_color }}_text"><h4>{{ site.city }}</h4></a>
     </li>
 
     {% for page in site.pages %}
@@ -20,7 +20,7 @@
       <a href="/" class="logo-container">
         <img src="http://staystrap.github.io/img/logo_{{ site.logo_color }}.png">
       </a>
-      <h4><a href="{{ site.baseurl }}">{{ site.city }}</a></h4>
+      <a href="{{ site.baseurl }}" class="{{ site.logo_color }}_text"><h4>{{ site.city }}</h4></a>
     </li>
 
     {% for page in site.pages %}
