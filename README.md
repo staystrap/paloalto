@@ -29,7 +29,7 @@ the file title will just appear in the sidebar.
     Please also adapt the color scheme to a sensible and well-readable setting
     to haven some visible distinction to other cities.
 4.  Contribute content as you think right
-5.  Edit the README.md so that it points to THIS file. This avoid outdated READMEs
+5.  Edit the README.md so that it points to THIS file ([like so](https://github.com/staystrap/brisbane/blob/gh-pages/README.md)). This avoid outdated READMEs
 5.  Transfer ownership of the repository to the **staystrap** organization.
 6.  We will take you onboard then :)
 
