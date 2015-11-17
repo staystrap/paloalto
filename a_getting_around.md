@@ -12,10 +12,22 @@ all the time?
 
 # Public Transport
 
-## CityCat, CityFerry and CityHopper
+## Public Bus
 
-## CityCycles
+If you want to use the buses frequently it makes sense for you to get a VTA pass. When you have one you can get use all Buses in the Valley for free. However, if you only use it once in a while, you might as well just pay single rides. It's only 1-2$.
 
-## Buses
+## BART
 
-## Trains
+The BART is a commuter railway between Milbrae and San Francisco. You will use it especially for transportantion to the San Francisco International Airport.
+
+## CalTrain
+
+The CalTrain is the fastest (and noisiest) public transportation option. It connect San Jose and San Francisco and all Cities in between. A ride is usually between 8$ to 15$.
+
+## Uber
+
+Uber is a very common way of transporation in the Bay Area. The are basically available everywhere. Especially if your in a group of 2-5 persons it's often more convenient then everything else.
+
+## Clipper Card
+
+If you want to use BART, CalTrain and Buses frequently get a Clipper Card. It makes traveling with them much easier. You can load money on and then pay rides with the card easily. Also, if you work for a bigger company in the area check out, whether they grant you commuter checks. You can use them to charge your Clipper Card.

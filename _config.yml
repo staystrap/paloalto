@@ -1,9 +1,8 @@
 # change this to the name of the repository and have it in all lower caps
-baseurl: "/paloalto"
+baseurl: "/siliconvalley"
 
 # change this to the name of your city
-city: Palo Alto
-
+city: Silicon Valley
 # color names taken from http://materializecss.com/color.html
 # append '-text' to color2 names and prepend accent/darken with 'text-'
 city_color:  grey lighten-5

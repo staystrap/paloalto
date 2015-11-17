@@ -13,7 +13,7 @@ Just list everything here!
 |----------+-------|
 | Breakfast/Lunch/Dinner | A$10+ |
 | Groceries for the week | A$ 70-100 |
-| A jug of cheap beer | A$6-8 |
+| A jug of cheap beer | A$5-8 |
 | Rent (per week) | >$1000 |
 | Bond | Usually 1-2x rent |
-| Cellular service (including Internet) | >$25 |
+| Cellular service (including Internet) | >$30 |
