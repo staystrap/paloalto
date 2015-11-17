@@ -1,6 +1,5 @@
 ---
 layout: article
-
 title: Contributors
 image: city.jpg
 ---

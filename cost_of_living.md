@@ -1,6 +1,6 @@
 ---
 layout: article
-image: city.jpg
+image: android.jpg
 title: Cost of living
 ---
 
