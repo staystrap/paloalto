@@ -4,13 +4,10 @@ image: city.jpg
 title: Getting around
 ---
 
-How do you geta round?
-Would you need a car?
-Can you reach stuff with other means?
-What is a good way to save money on transport without having to walk
-all the time?
 
 # Public Transport
+
+There are many different ways to get around. Most people rely on a car. However during rush hours the traffic in the are gets really bad. So sometimes public transportation may be preferable. Also there are a lot of bike routes in the bay area and it almost never rains. So if you don't live to far from your work or school and want to be environmentally aware you can also get around with a bike ;)
 
 ## Public Bus
 

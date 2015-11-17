@@ -5,7 +5,6 @@ title: Contributors
 image: city.jpg
 ---
 
-You are the first contributor, you have the honour of listing yourself here :)
 
 
 | Name             | Duration           | Reason             | Contact                     |
