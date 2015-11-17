@@ -5,6 +5,6 @@ baseurl: "/siliconvalley"
 city: Silicon Valley
 # color names taken from http://materializecss.com/color.html
 # append '-text' to color2 names and prepend accent/darken with 'text-'
-city_color:  grey lighten-5
-city_color2: teal-text
+city_color:  amber accent-2
+city_color2: brown darken-4-text
 logo_color: black # either black or white
