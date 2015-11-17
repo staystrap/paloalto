@@ -3,8 +3,9 @@ $blurRadius: 2px;
 .top-image {
   position: relative;
   width: 100%;
-  max-height: 20rem;
+  max-height: 40rem;
   overflow: hidden;
+  margin-top: -16rem;
 
   img {
     width: 100%;
